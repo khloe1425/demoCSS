@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* sử dụng biến */
+    background-color: var(--blue);
+}
+
+h2 {
+    border-bottom: 2px solid var(--blue);
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+button {
+    background-color: var(--white);
+    color: var(--blue);
+    border: 1px solid var(--blue);
+    padding: 5px;
+}
+section{
+    padding: 100px 0;
+}

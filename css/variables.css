@@ -1,0 +1,6 @@
+/* Khai báo biến */
+/* không hỗ trợ cho trình duyệt cũ */
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+}

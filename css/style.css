@@ -1,0 +1,14 @@
+/* Code dùng chung */
+@import url(./variables.css);
+
+
+
+@import url(./reset.css);
+
+
+
+/* code dùng riêng */
+
+@import url(./header.css);
+
+
